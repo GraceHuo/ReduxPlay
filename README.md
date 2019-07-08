@@ -1,4 +1,6 @@
-# Clone the Start Kit from [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight
+Redux Play
+
+The Start Kit was downloaded from [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight
 
 ## Get Started
 
